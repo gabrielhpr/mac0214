@@ -7,6 +7,7 @@ Explorando Modelos de Linguagem Natural e Aprendizado de Máquina: Uma Análise 
 
 A pesquisa em Processamento de Linguagem Natural (PLN) e Aprendizado de Máquina (AM) tem avançado significativamente nas últimas décadas, com os modelos Transformers, em particular o BERT (Bidirectional Encoder Representations from Transformers), emergindo como líderes em tarefas de processamento de linguagem natural. Este projeto tem como objetivo aprofundar nosso entendimento desses modelos e suas aplicações em várias áreas.
 
+----------------------
 ## Setembro (40 horas)
 
 ### Revisão Bibliográfica (10 horas)
@@ -17,3 +18,20 @@ https://docs.google.com/document/d/1YQT2UGT1Rh_0xazVdTSC6RbJow_ilakeUs2Ce3NiCTg/
 
 https://docs.google.com/document/d/1zkSKRLUPfArxfvd7FXggiowI-9YtfQEN-GMfQ7aU3I8/edit?usp=sharing
 
+### Experimentação e Implementação (15 horas)
+
+---------------------
+## Outubro (30 horas)
+
+### Experimentação e Implementação (15 horas)
+
+### Aplicação em Tarefas Específicas (15 horas)
+
+----------------------
+## Novembro (30 horas)
+
+### Aplicação em Tarefas Específicas (15 horas)
+...
+
+### Análise e Documentação (15 horas)
+...
