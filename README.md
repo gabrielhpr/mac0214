@@ -19,7 +19,9 @@ A pesquisa em Processamento de Linguagem Natural (PLN) e Aprendizado de Máquina
 [Modelos de Linguagem](https://docs.google.com/document/d/1zkSKRLUPfArxfvd7FXggiowI-9YtfQEN-GMfQ7aU3I8/edit?usp=sharing)
 
 ### Experimentação e Implementação (15 horas)
-[Aplicação 1 Rede Neural](https://github.com/gabrielhpr/mac0214/blob/main/DeepNeuralNetworkApplicationImage.ipynb)
+[Aplicação 1 Rede Neural - Image Classification](https://github.com/gabrielhpr/mac0214/blob/main/DeepNeuralNetworkApplicationImage.ipynb)
+
+[Aplicação 2 Rede Neural - Car detection](https://github.com/gabrielhpr/mac0214/blob/main/Autonomous_driving_application_Car_detection.ipynb)
 
 ---------------------
 ## Outubro (30 horas)
