@@ -27,7 +27,7 @@ A pesquisa em Processamento de Linguagem Natural (PLN) e Aprendizado de Máquina
 ## Outubro (30 horas)
 
 ### Aplicação em Tarefas Específicas (30 horas)
-[Processamento de Linguagem Natural - Correção de Redações do ENEM](https://github.com/gabrielhpr/mac0214/blob/main/enem_auto_correction.ipynb)
+[Processamento de Linguagem Natural - Correção de Redações do ENEM usando Modelo baseado em BERT](https://github.com/gabrielhpr/mac0214/blob/main/enem_auto_correction.ipynb)
 
 ----------------------
 ## Novembro 
