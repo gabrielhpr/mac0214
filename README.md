@@ -28,10 +28,4 @@ https://docs.google.com/document/d/1zkSKRLUPfArxfvd7FXggiowI-9YtfQEN-GMfQ7aU3I8/
 [Processamento de Linguagem Natural - Correção de Redações do ENEM](https://github.com/gabrielhpr/mac0214/blob/main/enem_auto_correction.ipynb)
 
 ----------------------
-## Novembro (30 horas)
-
-### Aplicação em Tarefas Específicas (15 horas)
-...
-
-### Análise e Documentação (15 horas)
-...
+## Novembro 
