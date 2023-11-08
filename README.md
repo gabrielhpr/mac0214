@@ -18,7 +18,7 @@ A pesquisa em Processamento de Linguagem Natural (PLN) e Aprendizado de Máquina
 
 [Modelos de Linguagem](https://docs.google.com/document/d/1zkSKRLUPfArxfvd7FXggiowI-9YtfQEN-GMfQ7aU3I8/edit?usp=sharing)
 
-[Rede Neural - Passo a Passo]()
+[Rede Neural - Passo a Passo](https://github.com/gabrielhpr/mac0214/blob/main/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
 
 ### Experimentação e Implementação (20 horas)
 [Aplicação 1 Rede Neural - Image Classification](https://github.com/gabrielhpr/mac0214/blob/main/DeepNeuralNetworkApplicationImage.ipynb)
