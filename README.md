@@ -12,11 +12,11 @@ A pesquisa em Processamento de Linguagem Natural (PLN) e Aprendizado de Máquina
 
 ### Revisão Bibliográfica (10 horas)
 
-https://docs.google.com/document/d/1YQT2UGT1Rh_0xazVdTSC6RbJow_ilakeUs2Ce3NiCTg/edit?usp=sharing 
+[Revisão](https://docs.google.com/document/d/1YQT2UGT1Rh_0xazVdTSC6RbJow_ilakeUs2Ce3NiCTg/edit?usp=sharing )
 
 ### Estudo de Modelos de Linguagem (15 horas)
 
-https://docs.google.com/document/d/1zkSKRLUPfArxfvd7FXggiowI-9YtfQEN-GMfQ7aU3I8/edit?usp=sharing
+[Modelos de Linguagem](https://docs.google.com/document/d/1zkSKRLUPfArxfvd7FXggiowI-9YtfQEN-GMfQ7aU3I8/edit?usp=sharing)
 
 ### Experimentação e Implementação (15 horas)
 [Aplicação 1 Rede Neural](https://github.com/gabrielhpr/mac0214/blob/main/DeepNeuralNetworkApplicationImage.ipynb)
