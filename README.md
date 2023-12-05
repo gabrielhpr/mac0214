@@ -33,3 +33,4 @@ A pesquisa em Processamento de Linguagem Natural (PLN) e Aprendizado de Máquina
 
 ----------------------
 ## Novembro 
+[Relatório Completo - Correção de Redações do ENEM usando Modelo baseado em BERT](https://github.com/gabrielhpr/mac0214/blob/main/documentation-enem-auto-correction.md)
