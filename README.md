@@ -32,5 +32,5 @@ A pesquisa em Processamento de Linguagem Natural (PLN) e Aprendizado de Máquina
 [Processamento de Linguagem Natural - Correção de Redações do ENEM usando Modelo baseado em BERT](https://github.com/gabrielhpr/mac0214/blob/main/enem_auto_correction.ipynb)
 
 ----------------------
-## Novembro 
+## Novembro (30 horas)
 [Relatório Completo - Correção de Redações do ENEM usando Modelo baseado em BERT](https://github.com/gabrielhpr/mac0214/blob/main/documentation-enem-auto-correction.md)
